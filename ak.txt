@@ -1,2 +1,3 @@
 day is game
 play the game
+win the game
